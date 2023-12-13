@@ -1,0 +1,8 @@
+print("My Student Identity and Contact Details")
+print("------------------")
+print("Name: Adama Sylla")
+print("Student ID: W213008103")
+print("Major: Computer Science")
+print("GPA: 3.6")
+print("Phone Number: 346-383-2553")
+print("Preferred Mode of Contact: Text Message")
